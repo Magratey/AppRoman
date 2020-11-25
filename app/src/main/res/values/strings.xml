@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">AppRoman</string>
+    <string name="back">Back</string>
+    <string name="title">Avengers:\nEnd Game</string>
+    <string name="age_category">13+</string>
+    <string name="genre">Action, Adventure, Fantasy</string>
+    <string name="reviews">125 REVIEWS</string>
+    <string name="storyline">Storyline</string>
+    <string name="description">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
+    <string name="cast">Cast</string>
+    <string name="chris_hemsworth">Chris Hemsworth</string>
+    <string name="robert_downey_jr">Robert Downey Jr.</string>
+    <string name="chris_evans">Chris Evans</string>
+    <string name="mark_ruffalo">Mark Ruffalo</string>
+    <string name="actor">actor</string>
+    <string name="background">background</string>
+    <string name="mask">mask</string>
 </resources>
